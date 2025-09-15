@@ -6,7 +6,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Smart Trolley Dashboard',
-  description: 'vijet',
+  description: 'Created with v0',
   generator: 'v0.app',
 }
 
